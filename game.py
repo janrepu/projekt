@@ -18,3 +18,4 @@ def run_game():
         pygame.display.flip()
     
     pygame.quit()
+    
